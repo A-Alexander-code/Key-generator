@@ -5,7 +5,7 @@
 ------------
 Key generator with graphical interface using a random generation between 
 uppercase and lowercase letters, numbers and symbols. Once the key is generated, 
-the clipboard will be copied 
+it will be copied to the clipboard 
 
 ![](https://1drv.ms/u/s!At49W9LBxFG6eGlQjgg8F2r8Rcg?e=BbfO07)
 
